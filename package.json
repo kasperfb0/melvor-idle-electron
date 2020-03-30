@@ -1,0 +1,17 @@
+{
+  "name": "melvor-electron",
+  "version": "0.0.1",
+  "description": "Melvor Idle executable in Electron :)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kasperfb",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  },
+  "dependencies": {
+    "asar": "^3.0.2"
+  }
+}
